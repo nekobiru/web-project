@@ -1,0 +1,18 @@
+.bg-custom {
+}
+.content {
+    width: 73.6%;
+    margin-right: 10px;
+    border-radius: 0;
+}
+.kanan{
+    border-radius: 0;
+}
+@media screen and (max-width:680px) {
+    .content {
+        width: 100%;
+    }
+    .kanan {
+        width: 100%;
+    }
+}
